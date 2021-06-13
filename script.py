@@ -2,10 +2,10 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+നിങ്ങൾക് സിനിമകൾ വെന്നോ?
+അതിനായി അത്യം ങ്ങളുടെ മെയിൻ ചാനലിൽ ജോയിൻ ചെയ്യണം... 😁
 
-See <i>/help</i> for commands and more details.</b>
+Join ചെയതത്തിനു ശേഷം വീണ്ടും ബോട്ട് /start ആക്കൂ.😁</b>
 """
 
 
