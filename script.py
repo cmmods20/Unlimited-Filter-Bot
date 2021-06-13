@@ -2,10 +2,10 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+നിങ്ങൾക് സിനിമകൾ വെന്നോ?
+നിങ്ങൾക് സിനിമകൾ വെന്നോ? അതിനായി അത്യം ങ്ങളുടെ മെയിൻ ചാനലിൽ ജോയിൻ ചെയ്യണം... 😁
 
-See <i>/help</i> for commands and more details.</b>
+Join ചെയതത്തിനു ശേഷം വീണ്ടും ബോട്ട് <i>/help</i> ആക്കൂ.😁</b>
 """
 
 
@@ -52,9 +52,9 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : MN Midukki Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @Movi_Night
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
